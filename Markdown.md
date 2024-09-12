@@ -8,10 +8,26 @@
 ```
 
 <ruby>
-
 语<rp>(<rp><rt>yǔ</rt></rp>)</rp>
 文<rp>(<rp><rt>wén</rt></rp>)</rp>
+</ruby>
 
+```
+
+```
+
+<ruby>
+语<rt>yŭ</rt>
+文<rt>wén</rt>
+</ruby>
+
+```
+
+```
+
+<ruby>
+语<rp><rt>yŭ</rt></rp>
+文<rp><rt>wén</rt></rp>
 </ruby>
 
 ```
