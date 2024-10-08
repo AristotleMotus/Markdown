@@ -41,3 +41,11 @@
 |三声|`&acaron;`|&acaron;|
 |四声|`&agrave;`|&agrave;|
 |u音|`&uuml;`|&uuml;|
+
+# 链接
+
+- This site was built using `[GitHub Pages](https://pages.github.com/)`.
+- This site was built using `<a herf="https://pages.github.com/">GitHub Pages</a>`.
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using <a herf="https://pages.github.com/">GitHub Pages</a>.
